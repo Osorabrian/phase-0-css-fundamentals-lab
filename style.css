@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1{
+  color: red;
+}
+
+header{
+  text-align: center;
+}
+
+#center_image{
+    text-align:center;
+    font-size: 16px;
+}
+
+.footerdiv{
+  width: 25%;
+  float:left;
+  text-align: center;
+  background-color: red;
+}
+
+.paragraph{
+  width:800px;
+}
+
+#featured-property{
+  text-align: center;
+}
+
+  
